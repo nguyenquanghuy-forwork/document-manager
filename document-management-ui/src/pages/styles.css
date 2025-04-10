@@ -1,0 +1,21 @@
+.body {
+  padding: 24px;
+
+  .header {
+    text-align: center;
+    align-items: center;
+  }
+
+  .button-add {
+    margin-left: 0px !important;
+    margin-bottom: 24px;
+  }
+
+  .ant-notification {
+    z-index: 9999 !important;
+  }
+}
+
+.ant-notification {
+  z-index: 9999 !important;
+}
