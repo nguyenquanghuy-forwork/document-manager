@@ -55,7 +55,7 @@ API sẽ chạy tại: "https://localhost:7227/api"
 ```
 
 # 📑 English
-
+```bash
 # Navigate to frontend folder (if applicable)
 cd frontend
 
