@@ -45,9 +45,6 @@ cd backend
 # Restore packages
 dotnet restore
 
-# Apply migration (nếu dùng Code First)
-dotnet ef database update
-
 # Chạy ứng dụng
 dotnet run
 
@@ -70,9 +67,6 @@ cd backend
 
 # Restore .NET packages
 dotnet restore
-
-# Apply EF Core migrations (if using Code First)
-dotnet ef database update
 
 # Start the application
 dotnet run
