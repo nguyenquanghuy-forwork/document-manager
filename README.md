@@ -1,4 +1,4 @@
-Vietnamese:
+# 📑 Vietnamese
 # 📑 Document Management System
 
 Ứng dụng quản lý chứng từ và chi tiết chứng từ, bao gồm:
@@ -52,8 +52,9 @@ dotnet ef database update
 dotnet run
 
 API sẽ chạy tại: "https://localhost:7227/api"
+```
 
-# 📑 English Document
+# 📑 English
 
 # Navigate to frontend folder (if applicable)
 cd frontend
