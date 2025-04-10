@@ -30,14 +30,14 @@
 ### 📦 Cài đặt frontend
 
 ```bash
-# Di chuyển vào thư mục frontend (nếu có)
+# Di chuyển vào thư mục frontend
 cd frontend
 
 # Cài dependencies
 npm install
 
 # Chạy ứng dụng
-npm start    # hoặc npm start nếu dùng CRA
+npm start
 
 # Di chuyển vào thư mục backend
 cd backend
@@ -53,14 +53,14 @@ API sẽ chạy tại: "https://localhost:7227/api"
 
 # 📑 English
 ```bash
-# Navigate to frontend folder (if applicable)
+# Navigate to frontend folder
 cd frontend
 
 # Install dependencies
 npm install
 
 # Start development server
-npm start    # or npm start if using Create React App
+npm start
 
 # Navigate to backend folder
 cd backend
