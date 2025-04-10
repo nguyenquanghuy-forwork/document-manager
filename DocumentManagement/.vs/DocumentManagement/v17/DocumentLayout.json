@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git-Personal\\DocumentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949BFA10-4292-4104-8DDB-B13D6C4097A7}|DocumentManagement.API\\DocumentManagement.API.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{949BFA10-4292-4104-8DDB-B13D6C4097A7}|DocumentManagement.API\\DocumentManagement.API.csproj|solutionrelative:documentmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E443DF-AF7C-42B1-AE7B-4AFCAA6CF1FF}|DocumentManagement.Infrastructure\\DocumentManagement.Infrastructure.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E443DF-AF7C-42B1-AE7B-4AFCAA6CF1FF}|DocumentManagement.Infrastructure\\DocumentManagement.Infrastructure.csproj|solutionrelative:documentmanagement.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E443DF-AF7C-42B1-AE7B-4AFCAA6CF1FF}|DocumentManagement.Infrastructure\\DocumentManagement.Infrastructure.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.infrastructure\\persistence\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E443DF-AF7C-42B1-AE7B-4AFCAA6CF1FF}|DocumentManagement.Infrastructure\\DocumentManagement.Infrastructure.csproj|solutionrelative:documentmanagement.infrastructure\\persistence\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFDBE92-4241-45EA-BD67-133C5108EBFB}|DocumentManagement.Domain\\DocumentManagement.Domain.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFDBE92-4241-45EA-BD67-133C5108EBFB}|DocumentManagement.Domain\\DocumentManagement.Domain.csproj|solutionrelative:documentmanagement.domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.application\\handlers\\updatedocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|solutionrelative:documentmanagement.application\\handlers\\updatedocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949BFA10-4292-4104-8DDB-B13D6C4097A7}|DocumentManagement.API\\DocumentManagement.API.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949BFA10-4292-4104-8DDB-B13D6C4097A7}|DocumentManagement.API\\DocumentManagement.API.csproj|solutionrelative:documentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949BFA10-4292-4104-8DDB-B13D6C4097A7}|DocumentManagement.API\\DocumentManagement.API.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.api\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949BFA10-4292-4104-8DDB-B13D6C4097A7}|DocumentManagement.API\\DocumentManagement.API.csproj|solutionrelative:documentmanagement.api\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.application\\queries\\getdocumentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|solutionrelative:documentmanagement.application\\queries\\getdocumentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFDBE92-4241-45EA-BD67-133C5108EBFB}|DocumentManagement.Domain\\DocumentManagement.Domain.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.domain\\entities\\documentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFDBE92-4241-45EA-BD67-133C5108EBFB}|DocumentManagement.Domain\\DocumentManagement.Domain.csproj|solutionrelative:documentmanagement.domain\\entities\\documentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.application\\commands\\updatedocumentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|solutionrelative:documentmanagement.application\\commands\\updatedocumentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.application\\handlers\\getdocumentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|solutionrelative:documentmanagement.application\\handlers\\getdocumentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.application\\handlers\\deletedocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|solutionrelative:documentmanagement.application\\handlers\\deletedocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|d:\\git-personal\\documentmanagement\\documentmanagement.application\\handlers\\createdocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AB611E-214B-4B69-8CA2-1E3F7993764E}|DocumentManagement.Application\\DocumentManagement.Application.csproj|solutionrelative:documentmanagement.application\\handlers\\createdocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DocumentManagement.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "DocumentManagement.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T04:04:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DocumentManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwEEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:03:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "RelativeToolTip": "DocumentManagement.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:03:24.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentDetail.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Domain\\Entities\\DocumentDetail.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Domain\\Entities\\DocumentDetail.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Domain\\Entities\\DocumentDetail.cs",
+              "RelativeToolTip": "DocumentManagement.Domain\\Entities\\DocumentDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:03:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.API\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.API\\Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.API\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "DocumentManagement.API\\Controllers\\DocumentController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T02:58:33.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDocumentListQuery.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Queries\\GetDocumentListQuery.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Application\\Queries\\GetDocumentListQuery.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Queries\\GetDocumentListQuery.cs",
+              "RelativeToolTip": "DocumentManagement.Application\\Queries\\GetDocumentListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T02:56:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.API\\Program.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.API\\Program.cs",
+              "RelativeToolTip": "DocumentManagement.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAzwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:26:09.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Domain\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Domain\\Entities\\Document.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Domain\\Entities\\Document.cs",
+              "RelativeToolTip": "DocumentManagement.Domain\\Entities\\Document.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:06:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateDocumentCommand.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Commands\\UpdateDocumentCommand.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Application\\Commands\\UpdateDocumentCommand.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Commands\\UpdateDocumentCommand.cs",
+              "RelativeToolTip": "DocumentManagement.Application\\Commands\\UpdateDocumentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:50:31.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDocumentHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\UpdateDocumentHandler.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Application\\Handlers\\UpdateDocumentHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\UpdateDocumentHandler.cs",
+              "RelativeToolTip": "DocumentManagement.Application\\Handlers\\UpdateDocumentHandler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAIAzwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:15:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDocumentListHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\GetDocumentListHandler.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Application\\Handlers\\GetDocumentListHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\GetDocumentListHandler.cs",
+              "RelativeToolTip": "DocumentManagement.Application\\Handlers\\GetDocumentListHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA+wBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:15:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteDocumentHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\DeleteDocumentHandler.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Application\\Handlers\\DeleteDocumentHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\DeleteDocumentHandler.cs",
+              "RelativeToolTip": "DocumentManagement.Application\\Handlers\\DeleteDocumentHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:15:28.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateDocumentHandler.cs",
+              "DocumentMoniker": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\CreateDocumentHandler.cs",
+              "RelativeDocumentMoniker": "DocumentManagement.Application\\Handlers\\CreateDocumentHandler.cs",
+              "ToolTip": "D:\\Git-Personal\\DocumentManagement\\DocumentManagement.Application\\Handlers\\CreateDocumentHandler.cs",
+              "RelativeToolTip": "DocumentManagement.Application\\Handlers\\CreateDocumentHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:15:23.808Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
